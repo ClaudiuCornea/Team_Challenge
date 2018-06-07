@@ -20,8 +20,9 @@ Pour plus d'informations suivre ce [lien](https://github.com/becodeorg/lovelace-
 ## Solutions
 * mise en place d'un plan de travail
 * distribution du travail en fonction des points forts des collabolateurs
+* [lighthouse Test resultats](https://googlechrome.github.io/lighthouse/viewer/)
 ## Status
-We are working on it.
+The END.
 ## collabolateurs
 * [Marco Bove](https://github.com/marcomisco)
 * [Claudiu Cornea](https://github.com/ClaudiuCornea)
