@@ -2079,6 +2079,8 @@
 			}
 
 		.image.avatar {
+		    background-color: white;
+		    opacity: 0.5;
 		    display: flex;
 		    margin: auto;
             box-sizing: content-box;
