@@ -238,6 +238,7 @@
 
 						}
 
+<<<<<<< HEAD
 						/*test smooth scrolling
 
 						// Select all links with hashes
@@ -277,6 +278,8 @@ $('a[href*="#"]')
   }
 });*/
 
+=======
+>>>>>>> 92f5bf27a1536ea436f2e5d48343b3c376b31b9f
 					// Prevent vertical scrolling past the top or bottom.
 						if (($this.scrollTop() < 0 && diffY < 0)
 						|| (ts > (th - 2) && ts < (th + 2) && diffY > 0)) {
